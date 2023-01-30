@@ -12,6 +12,8 @@ namespace GitTest
         {
             Console.WriteLine("Сложение");
 
+            Console.WriteLine("Вычитание");
+
             Console.Read();
         }
     }
