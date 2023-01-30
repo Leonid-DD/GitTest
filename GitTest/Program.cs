@@ -10,7 +10,9 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Сложение");
+            Console.WriteLine("Умножение");
+
+            Console.WriteLine("Деление");
 
             Console.WriteLine("Вычитание");
 
