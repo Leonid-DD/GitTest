@@ -1,0 +1,8 @@
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\obj\Debug\GitTest.csproj.AssemblyReference.cache
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\obj\Debug\GitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\Редисочка\Desktop\Для учёбы №2\Проекты C# 16.11.2022 -\Модули\GitTest\GitTest\obj\Debug\GitTest.pdb
